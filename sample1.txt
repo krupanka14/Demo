@@ -1,1 +1,2 @@
 Hi this is Branch1 . So next we need to merge to Master to branch1
+Hi changing is required do add the git and github
